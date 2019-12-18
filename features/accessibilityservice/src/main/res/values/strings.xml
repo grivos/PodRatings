@@ -1,0 +1,8 @@
+<resources>
+    <string name="accessibility_label">@string/app_name</string>
+    <string name="app_name_pocket_casts">Pocket Casts</string>
+    <string name="raters_count_format">(%1$s)</string>
+    <string name="podcast_not_fount">Can\'t find ratings for podcast</string>
+    <string name="accessibility_service_description">Show ratings for podcast shows</string>
+    <string name="accessibility_service_summary">The Pod Ratings app needs the accessibility permission to retrieve the name of the podcast you are listening to and show you its ratings.</string>
+</resources>

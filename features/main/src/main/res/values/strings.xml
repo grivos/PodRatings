@@ -1,0 +1,5 @@
+<resources>
+    <string name="welcome">Welcome to <annotation format="bold">Pod Ratings</annotation>.\nYou can use Pocket Casts normally, and you will see the ratings for the podcasts you browse.</string>
+    <string name="no_accessibility_granted">You must enable an accessibility service first.\nGo to the accessibility settings and enable <annotation format="bold">Pod Ratings</annotation>.</string>
+    <string name="go_to_settings">Go to settings</string>
+</resources>

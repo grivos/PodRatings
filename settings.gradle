@@ -1,0 +1,8 @@
+include Modules.app
+include Modules.presentation
+include Modules.cache
+include Modules.domain
+include Modules.network
+include Modules.main
+include Modules.accessibilityservice
+include Modules.hover

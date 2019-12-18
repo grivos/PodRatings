@@ -1,0 +1,17 @@
+apply from: "$rootDir/common-android-library.gradle"
+apply plugin: 'kotlin-kapt'
+
+dependencies {
+    implementation project(Modules.domain)
+    implementation project(Modules.presentation)
+    implementation Libraries.ktx
+    implementation Libraries.rxkotlin
+    implementation Libraries.rxAndroid
+    implementation SupportLibraries.appcompat
+    implementation SupportLibraries.design
+    implementation SupportLibraries.constraintLayout
+    implementation Libraries.koinViewModel
+    implementation Libraries.timber
+}
+
+
